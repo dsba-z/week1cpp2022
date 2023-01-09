@@ -30,6 +30,8 @@ In this course, we will use the following:
 
 ## Files
 
+To download all necessary files (that is, this repository) click the green button "Code" on the GitHub page and choose "Download ZIP".
+
 ## Exercises
 
 1. Study the structure of the project
