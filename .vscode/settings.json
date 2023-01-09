@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/workshop1/src",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "climits": "cpp"
+    }
+}
