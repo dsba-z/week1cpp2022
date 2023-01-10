@@ -10,14 +10,6 @@ int main()
     std::cout << "Hello world!";
 
 
-    size_t s1 = sizeof(char);
-    size_t s2 = sizeof(short);
-    size_t s3 = sizeof(int);
-    size_t s4 = sizeof(long);
-    size_t s5 = sizeof(long long);
-
-
-
     // must return a "errorlevel code": 0 is for OK
     return 0;
 }
